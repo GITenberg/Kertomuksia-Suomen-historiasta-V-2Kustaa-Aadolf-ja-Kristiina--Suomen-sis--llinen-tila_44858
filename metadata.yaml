@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4607
     wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44858#Kertomuksia-Suomen-historiasta-V-2Kustaa-Aadolf-ja-Kristiina--Suomen-sis--llinen-tila
 gutenberg_issued: '2014-02-09'
 gutenberg_type: Text
 identifiers:
